@@ -37,8 +37,8 @@ public:
 	std::string ejecutar() const override {
 		std::string result;
 		result = "Resultado de PrimAlgorithm.";
-		// Aquí aplicar la lógica del algoritmo Prim, segun a los
-		// parametros que podría recibir ejecutar()
+		// AquÃ­ aplicar la lÃ³gica del algoritmo Prim, segun a los
+		// parametros que podrÃ­a recibir ejecutar()
 		return result;
 	}
 };
@@ -47,8 +47,8 @@ public:
 	std::string ejecutar() const override {
 		std::string result;
 		result = "Resultado de KruskalAlgorithm.";
-		// Aquí aplicar la lógica del algoritmo Kruskal, segun a los
-		// parametros que podría recibir ejecutar()
+		// AquÃ­ aplicar la lÃ³gica del algoritmo Kruskal, segun a los
+		// parametros que podrÃ­a recibir ejecutar()
 		return result;
 	}
 };
